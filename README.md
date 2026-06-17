@@ -11,7 +11,7 @@
 - **Backend**: Node.js, SQL
 
 🔍 I'm actively improving my problem-solving skills and have solved:
-- **300+ problems on LeetCode**
+- **100+ problems on LeetCode with contest rating 1849 comes under top 7 %**
 - **200+ problems on GeeksforGeeks**
 
 🚀 I’m currently preparing for **SDE-1 roles at top tech companies like Google**, and working through the **Google SDE Sheet** to strengthen my DSA.
