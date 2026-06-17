@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Subham Kumar
 
-🎓 I'm a final year B.Tech student at **D.Y. Patil University**, currently holding a **CGPA of 8.11** across 6 semesters.
+🎓 I'm a graduate B.Tech student at D.Y. Patil University, currently holding an overall CGPA of 8.40.
 
 💻 I have a strong foundation in **Software Engineering** and a deep interest in **Full-Stack Development**.
 
