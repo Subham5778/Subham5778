@@ -47,19 +47,45 @@
 
 ## 🌟 Featured Projects
 
-### HardwareHub
+### AI Study Companion
 
-A full-stack platform for hardware-related products and services.
+An AI-powered full-stack study planning platform designed for students preparing for placements and competitive exams. The platform combines intelligent study planning, mock test generation, coding practice tracking, focus sessions, analytics, and personalized learning insights in a single dashboard.
 
-**Tech Stack:** React.js, Tailwind CSS, Node.js, MySQL
+**Key Features**
 
-### Mock Interview Platform
+* 🤖 AI-generated study timetables from syllabus and target deadlines
+* 📝 AI-powered mock test generation for MCQs and coding questions
+* 📊 Personalized dashboard insights using Google Gemini
+* ⏱️ Pomodoro-based Focus Mode with automatic study-time tracking
+* 🔥 XP, Level, Streak, and Performance Analytics
+* 💻 DSA & Coding Practice Tracker
+* 🎯 HR Interview Preparation Module
+* 📒 Daily Notes Management
+* 🔐 Secure JWT Authentication with HTTP-only Cookies
 
-AI-powered interview preparation platform with real-time feedback and performance analysis.
+**Tech Stack**
 
-**Tech Stack:** React.js, Node.js, SQL
+| Frontend     | Backend    | Database | AI & Authentication |
+| ------------ | ---------- | -------- | ------------------- |
+| React 19     | Node.js    | MongoDB  | Google Gemini API   |
+| Vite         | Express.js | Mongoose | JWT                 |
+| React Router | REST APIs  |          | bcryptjs            |
+| Tailwind CSS |            |          | cookie-parser       |
+| Recharts     |            |          |                     |
 
-> Add links to your repositories and live demos here.
+**Links**
+
+* 🚀 Live Demo: https://ai-study-companion-flame.vercel.app
+* 🔗 Backend API: https://ai-study-companion-gru5.onrender.com
+* 📂 GitHub Repository: https://github.com/Subham5778/AI-Study-Companion
+
+**Impact**
+
+* Built a complete AI-assisted learning ecosystem that helps students plan, track, and optimize their preparation journey.
+* Integrated Generative AI to automate timetable creation, test generation, and personalized learning recommendations.
+
+
+
 
 ---
 
