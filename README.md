@@ -21,38 +21,19 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+| 💻 Languages | 🎨 Frontend  | ⚙️ Backend | 🗄️ Database |
+| ------------ | ------------ | ---------- | ------------ |
+| Java         | React.js     | Node.js    | MySQL        |
+| Python       | Tailwind CSS | Express.js | SQL          |
+| C++          | JavaScript   |            |              |
+| C#           | HTML5/CSS3   |            |              |
 
-* Java
-* Python
-* C++
-* C#
-
-### Frontend
-
-* React.js
-* Tailwind CSS
-* JavaScript
-* HTML5
-* CSS3
-
-### Backend
-
-* Node.js
-* Express.js
-
-### Database
-
-* MySQL
-* SQL
-
-### Tools & Technologies
-
-* Git
-* GitHub
-* Postman
-* VS Code
-
+| 🛠️ Tools | 📚 Currently Learning    |
+| --------- | ------------------------ |
+| Git       | System Design            |
+| GitHub    | Advanced DSA             |
+| Postman   | Scalable Backend Systems |
+| VS Code   | Software Architecture    |
 ---
 
 ## 📊 Problem Solving
