@@ -74,9 +74,9 @@ AI-powered interview preparation platform with real-time feedback and performanc
 
 ## 📫 Connect With Me
 
-* LinkedIn: Your LinkedIn Profile
-* Email: Your Professional Email
-* Portfolio: Your Portfolio Website
+* LinkedIn: https://www.linkedin.com/in/subham-kumar5778/
+* Email: subham.nchs5778@gmail.com
+* Portfolio: https://my-portfolio-three-chi-22.vercel.app/
 
 ---
 
