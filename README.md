@@ -39,7 +39,7 @@
 ## 📊 Problem Solving
 
 * 🏆 LeetCode Contest Rating: **1849**
-* 💡 250+ Problems Solved on LeetCode
+* 💡 100+ Problems Solved on LeetCode
 * 💡 300+ Problems Solved on GeeksforGeeks
 * 📚 Regularly practicing DSA and Competitive Programming
 
