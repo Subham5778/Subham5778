@@ -12,7 +12,7 @@
 
 * Strong foundation in **Java, Data Structures & Algorithms, and Software Engineering**
 * Experienced in building full-stack web applications using modern technologies
-* Solved **250+ problems on LeetCode**
+* Solved **100+ problems on LeetCode**
 * Achieved a **LeetCode Contest Rating of 1849 (Top 7%)**
 * Solved **300+ problems on GeeksforGeeks**
 * Currently preparing for **SDE-1 roles** and strengthening System Design concepts
