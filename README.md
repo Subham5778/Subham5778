@@ -1,25 +1,102 @@
-### 👋 Hi, I'm Subham Kumar
+# Hi 👋, I'm Subham Kumar
 
-🎓 I'm a graduate B.Tech student at D.Y. Patil University, currently holding an overall CGPA of 8.40.
+### Software Developer | Java Developer | Full-Stack Developer
 
-💻 I have a strong foundation in **Software Engineering** and a deep interest in **Full-Stack Development**.
+🎓 Graduate B.Tech Student at D.Y. Patil University, Pune
+📈 CGPA: 8.40
+💻 Passionate about Software Engineering, Data Structures & Algorithms, and Full-Stack Development
 
-🧠 My core programming language is **Java**, but I also have experience with **Python**, **C++**, and **C#**.
+---
 
-🌐 I’m skilled in both frontend and backend technologies, including:
-- **Frontend**: React.js, Tailwind CSS  
-- **Backend**: Node.js, SQL
+## 🚀 About Me
 
-🔍 I'm actively improving my problem-solving skills and have solved:
-- **100+ problems on LeetCode with contest rating 1849 comes under top 7 %**
-- **200+ problems on GeeksforGeeks**
+* Strong foundation in **Java, Data Structures & Algorithms, and Software Engineering**
+* Experienced in building full-stack web applications using modern technologies
+* Solved **250+ problems on LeetCode**
+* Achieved a **LeetCode Contest Rating of 1849 (Top 7%)**
+* Solved **300+ problems on GeeksforGeeks**
+* Currently preparing for **SDE-1 roles** and strengthening System Design concepts
 
-🚀 I’m currently preparing for **SDE-1 roles at top tech companies like Google**, and working through the **Google SDE Sheet** to strengthen my DSA.
+---
 
-📫 Feel free to connect or collaborate!
+## 🛠️ Tech Stack
 
+### Languages
 
-<!---
-Subham5778/Subham5778 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Java
+* Python
+* C++
+* C#
+
+### Frontend
+
+* React.js
+* Tailwind CSS
+* JavaScript
+* HTML5
+* CSS3
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Database
+
+* MySQL
+* SQL
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* Postman
+* VS Code
+
+---
+
+## 📊 Problem Solving
+
+* 🏆 LeetCode Contest Rating: **1849**
+* 💡 250+ Problems Solved on LeetCode
+* 💡 300+ Problems Solved on GeeksforGeeks
+* 📚 Regularly practicing DSA and Competitive Programming
+
+---
+
+## 🌟 Featured Projects
+
+### HardwareHub
+
+A full-stack platform for hardware-related products and services.
+
+**Tech Stack:** React.js, Tailwind CSS, Node.js, MySQL
+
+### Mock Interview Platform
+
+AI-powered interview preparation platform with real-time feedback and performance analysis.
+
+**Tech Stack:** React.js, Node.js, SQL
+
+> Add links to your repositories and live demos here.
+
+---
+
+## 🎯 Current Goals
+
+* Crack SDE-1 interviews at top product-based companies
+* Master System Design fundamentals
+* Build scalable full-stack applications
+* Contribute to open-source projects
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: Your LinkedIn Profile
+* Email: Your Professional Email
+* Portfolio: Your Portfolio Website
+
+---
+
+*"Continuous learning, consistency, and problem-solving are the foundations of great software engineering."*
